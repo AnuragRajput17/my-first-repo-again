@@ -17,4 +17,4 @@ Any thing that is finger licking tasty
 
 ### Contact
 
- The best way to get in touch with me is [on linkedIn](https://www.linkedin.com/in/anurag-rajput-b013b169).
+ The best way to get in touch with me is [on linkedIn](https://www.linkedin.com/in/anurag-rajput-b0139b169).
