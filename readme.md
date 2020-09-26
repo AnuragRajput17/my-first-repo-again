@@ -1,30 +1,20 @@
-# This is a large heading
 
-## This is a smaller heading
+# Anurag Rajput
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Geography
 
-- This is
-- an unordered
-- list
+I live in the city of Mumbai, in the state of Maharashtra in India
 
-1. This is
-2. an ordered
-3. list
+### Sports
 
-Here is `some code` in the middle of a sentence.
+- *Football* 
+- *TT,Cricket,Hockey* 
+- *Athletics*
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Any thing that is finger licking tasty
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
 
-nano README.md
+ The best way to get in touch with me is [on linkedIn](https://www.linkedin.com/in/anurag-rajput-b0139b169).
